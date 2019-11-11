@@ -8,4 +8,5 @@ git diff: importante pra ver antes de commitar, e dar uma ultima lida antes no q
 
 Teste de nivelamento.
 
-git log --graph: Gráfico que mostra a master e as branchs que forma feitas de acordo com os logs.
+git log --graph: Gráfico que mostra a master e as branchs que forma feitas de acordo com os logs
+Marcelo Bastos Carneiro / MBC-Dev.
